@@ -1,0 +1,24 @@
+body{
+    background: -webkit-linear-gradient(90deg, #e5b2a9,#ddd1c5,#d1dbad,#92ad76);
+    background: linear-gradient(90deg, #e5b2a9,#ddd1c5,#d1dbad,#92ad76);
+}
+.wrapper{
+    max-width: 100%;
+    padding-left: 500px;
+    padding-right: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar{
+    background-color: #72975d ;
+    
+}
+.header{
+    background-color: #72975d;
+    height: 60px;
+}
+.header2{
+    background-color: #f8f8f8;
+    height: 60px;
+}
+
